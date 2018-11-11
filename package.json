@@ -1,0 +1,21 @@
+{
+  "name": "babel-console-log-plugin",
+  "version": "1.0.0",
+  "description": "This plugin is test-only and have no real-world use cases",
+  "scripts": {
+    "test": "npx babel-cli src/example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoVaVc/babel-console-log-plugin.git"
+  },
+  "author": "Vladimir Pavlov <vovavc@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VoVaVc/babel-console-log-plugin/issues"
+  },
+  "homepage": "https://github.com/VoVaVc/babel-console-log-plugin#readme",
+  "dependencies": {
+    "babel": "^6.23.0"
+  }
+}
