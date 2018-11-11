@@ -1,5 +1,5 @@
 {
-  "name": "babel-console-log-plugin",
+  "name": "babel-plugin-console-log-modifier",
   "version": "1.0.0",
   "description": "This plugin is test-only and have no real-world use cases",
   "scripts": {
