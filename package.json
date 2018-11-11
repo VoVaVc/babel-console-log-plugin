@@ -5,6 +5,7 @@
   "scripts": {
     "test": "npx babel-cli src/example.js"
   },
+   "main": "src/plugin.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/VoVaVc/babel-console-log-plugin.git"
